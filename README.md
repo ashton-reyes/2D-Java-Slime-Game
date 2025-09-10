@@ -35,5 +35,5 @@ This was my **first game project in Java**, and it taught me about object-orient
 ## 🚀 How to Run
 1. Clone the repository:
    ```bash
-   git clone https://github.com/ashtxnR/Slime-Game.git
+   git clone https://github.com/ashtxnR/2D-Java-Slime-Game.git
    cd Slime-Game
