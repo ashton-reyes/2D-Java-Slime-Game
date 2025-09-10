@@ -1,4 +1,4 @@
-# Slime-Game
+# 2D-Java-Slime-Game
 
 A simple **Java 2D survival game** built with **Swing**.  
 You play as a mage-slime who must **survive waves of slimes** while dodging arrows and progressing through levels.  
