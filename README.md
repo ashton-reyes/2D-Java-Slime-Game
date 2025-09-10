@@ -36,4 +36,4 @@ This was my **first game project in Java**, and it taught me about object-orient
 1. Clone the repository:
    ```bash
    git clone https://github.com/ashtxnR/2D-Java-Slime-Game.git
-   cd Slime-Game
+   cd 2D-Java-Slime-Game
