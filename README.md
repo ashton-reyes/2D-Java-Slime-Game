@@ -3,6 +3,7 @@
 A simple **Java 2D survival game** built with **Swing**.  
 You play as a mage-slime who must **survive waves of slimes** while dodging arrows and progressing through levels.  
 This was my **first game project in Java**, and it taught me about object-oriented programming, graphics, and basic game loops.
+This is also my first GitHub repository so I've been experimenting with the many git commands as well as the functions of this application.
 
 ---
 
