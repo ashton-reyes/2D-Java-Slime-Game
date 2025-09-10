@@ -9,7 +9,7 @@ This was my **first game project in Java**, and it taught me about object-orient
 ## 🎮 Features
 - **Player Character**  
   - Move in four directions (W A S D)
-  - Short-range melee attack (Arrow Keys)
+  - Short-range magic attack (Arrow Keys)
   - Health system with invincibility frames  
 - **Enemies**  
   - Regular slimes (blue)  
