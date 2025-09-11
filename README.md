@@ -38,3 +38,5 @@ This is also my first GitHub repository, so I've been experimenting with the var
    ```bash
    git clone https://github.com/ashton-reyes/2D-Java-Slime-Game.git
    cd 2D-Java-Slime-Game
+
+2. Main method can be found in the Map.java file. Run the project on the Map.java file.
