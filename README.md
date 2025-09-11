@@ -4,7 +4,7 @@ A simple **Java 2D survival game** built with **Swing**.
 You play as a mage-slime who must **survive waves of slimes** while dodging arrows and progressing through levels.  
 This was my **first game project in Java**, and it taught me about object-oriented programming, graphics, and basic game loops.
 
-This is also my first GitHub repository so I've been experimenting with the many git commands as well as the functions of this application.
+This is also my first GitHub repository, so I've been experimenting with the various Git commands as well as the features of this application.
 
 ---
 
@@ -36,5 +36,5 @@ This is also my first GitHub repository so I've been experimenting with the many
 ## 🚀 How to Run
 1. Clone the repository:
    ```bash
-   git clone https://github.com/ashtxnR/2D-Java-Slime-Game.git
+   git clone https://github.com/ashton-reyes/2D-Java-Slime-Game.git
    cd 2D-Java-Slime-Game
