@@ -43,5 +43,3 @@ This is also my first GitHub repository, so I've been experimenting with the var
    ```bash
    javac Main.java
    java Main
-
-
